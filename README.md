@@ -12,6 +12,12 @@ These tutorials can be installed in any DHIS2 instance through the [DHIS2 Traini
 The tutorials can be dowloaded at:
 https://github.com/WorldHealthOrganization/DHIS2-tutorials/tree/GMP/VCR
 
+The following sufixes are used to label tutorials of different types:
+
+  * DC: for tutorials on data collection processes
+  * VZ: for tutorials on data visualization processes
+  * EX: for tutorials on data export processes.
+  
 
 A **[demo of the modules](https://extranet.who.int/dhis2-ento-vc)** including the tutorials is available.
 

@@ -17,8 +17,8 @@ The tutorials can be dowloaded at:
 https://github.com/WorldHealthOrganization/DHIS2-tutorials/tree/GMP/VCR
 
 
-A **[demo of the modules](https://extranet.who.int/dhis2-ento-vc)** is available in french and english.
+A **[demo of the modules](https://extranet.who.int/dhis2-ento-vc)** including the tutorials is available.
 
-More information on the modules and the tools designed to facilitate their implementation can be found in [this page](https://www.who.int/teams/global-malaria-programme/prevention/vector-control/dhis-data-collection-and-collation-tools)
+More information on the modules and other tools designed to facilitate their implementation can be found in [this page](https://www.who.int/teams/global-malaria-programme/prevention/vector-control/dhis-data-collection-and-collation-tools)
 
-Links to the latest version of the metadata packages compatible with different DHIS2 versions included in the tables below. If you have questions or difficulties implementing these modules, please contact fernandezl@who.int
+If you have questions or difficulties using these tutorials, please contact fernandezl@who.int

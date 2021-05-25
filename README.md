@@ -1,4 +1,4 @@
-# Entomology and Vector Control
+# DHIS2 tutorials for Entomology and Vector Control
 The standard tutorials for entomology and vector control have been developed to support the use of the  [DHIS2 standard modules for entomology and vector control](https://www.who.int/teams/global-malaria-programme/prevention/vector-control/dhis-data-collection-and-collation-tools).
 
   * ITN bioefficacy monitoring, 

@@ -1,8 +1,14 @@
 # WHO DHIS2 tutorials for DHIS2 standard packages
 The WHO tutorials for DHIS2 consist of tutorials that show users how to collect or visualize data for specific thematic areas in a interactive manner and from within DHIS2.
-They are provided to the user through the [DHIS2 Training App](https://github.com/WorldHealthOrganization/training-app-blessed), an application developed by WHO to build and deliver these tutorials to the users. Once installed in a DHIS2 instance, the tutorials remain available for users to easily open them any time they need support.
+They are provided to the user through the [DHIS2 Training App](https://github.com/WorldHealthOrganization/training-app-blessed), an application developed by WHO to build and deliver these tutorials to the end users. Once installed in the DHIS2 Training App, the tutorials remain available for users to easily open them any time they need support.
 
-Currently, tutorials exists for the following thematic areas.
+The following sufixes are used to label tutorials of different types:
+
+  * DC: for tutorials on data collection processes
+  * VZ: for tutorials on data visualization processes
+  * EX: for tutorials on data export processes.
+  
+Currently, tutorials are available for the following thematic areas:
 
 # Entomology and Vector Control
 Standard tutorials exist to support the following  [DHIS2 standard modules for entomology and vector control](https://www.who.int/teams/global-malaria-programme/prevention/vector-control/dhis-data-collection-and-collation-tools).

@@ -16,7 +16,7 @@ The following sufixes are used to label tutorials of different types:
 
   * DC: for tutorials on data collection processes
   * VZ: for tutorials on data visualization processes
-  * EX: for tutorials on data export processes.
+  * EX: for tutorials on data export and import processes.
   
 
 A **[demo of the modules](https://extranet.who.int/dhis2-ento-vc)** including the tutorials is available.
